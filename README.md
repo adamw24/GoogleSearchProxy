@@ -1,5 +1,5 @@
 # GoogleSearchProxy
-Initial Goal:
+Initial Goal: \n
 Create a search proxy so that Google's search results are displayed on your page.
 
 Conclusions and Takeaways:
